@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="text0415:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/text0415_jar</output-path>
+    <root id="root">
+      <element id="archive" name="text0415.jar">
+        <element id="module-output" name="text0415" />
+      </element>
+    </root>
+  </artifact>
+</component>
